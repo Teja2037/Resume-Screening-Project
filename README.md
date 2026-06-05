@@ -163,7 +163,3 @@ The system successfully:
 B.Tech Student | Aspiring Software Engineer
 
 GitHub: https://github.com/Teja2037
-
-## License
-
-This project is licensed under the MIT License.
